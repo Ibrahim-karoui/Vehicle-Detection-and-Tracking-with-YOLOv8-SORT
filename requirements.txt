@@ -1,0 +1,10 @@
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.3.218
+pandas
+opencv-python
+numpy
+scipy
+easyocr
+filterpy
+scikit-image
